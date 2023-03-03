@@ -6,10 +6,10 @@
 -->
 
 # WeenerSmash Video Game (PC)
-https://youtu.be/Hi2xYivGGWU
+(https://youtu.be/Hi2xYivGGWU)
 
 Freeware Demo Download Link
-https://filejoker.net/fe1e1dhlsrr1
+(https://filejoker.net/fe1e1dhlsrr1)
 
 (Windows PC Game .exe)
 
