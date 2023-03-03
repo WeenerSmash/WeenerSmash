@@ -1,4 +1,7 @@
 
+
+# Build settings
+markdown: kramdown
 title: WeenerSmash
 description: WeenerSmash Video Game
 theme: minima
